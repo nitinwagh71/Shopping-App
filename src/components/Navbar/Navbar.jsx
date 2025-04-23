@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div className={style["navbar-container"]}>
       <div className={style["navbar-content"]}>
-        <Link to="/">Shop</Link>
+        <Link to="/">Shops</Link>
         <Link to="/cart">Cart</Link>
       </div>
     </div>
