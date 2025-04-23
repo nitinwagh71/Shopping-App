@@ -1,0 +1,14 @@
+.shop-container {
+  /* border: 3px solid green; */
+  display: grid;
+  grid-template-columns: repeat(4, 220px);
+  width: 80%;
+  margin: auto;
+  gap: 35px;
+}
+
+/* shopHeading */
+.shopHeading {
+  text-align: center;
+  font-style: italic;
+}

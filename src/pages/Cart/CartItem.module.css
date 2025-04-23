@@ -1,0 +1,27 @@
+/* cartItem-container */
+.cartItem-container {
+  border: 1px solid rgb(191, 187, 187);
+  height: 275px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+/* cartImg */
+.cartImg {
+  /* border: 1px solid black; */
+  height: 200px;
+  width: 250px;
+}
+
+/* cartInfoContainer */
+.cartInfoContainer {
+  margin: 6px;
+}
+
+/* cartInfo */
+.cartInfo {
+  margin-right: 5px;
+}
